@@ -13,7 +13,7 @@ You can download this work [here](http://bibdigital.epn.edu.ec/bitstream/15000/1
 This figure represents the main components of the prototype.
 
 <p align="center">
-  <img height="320" width="320" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/thesis1.png">
+  <img height="320" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/thesis1.png">
 </p>
 
 
@@ -51,7 +51,7 @@ Escene and its point cloud reconstruction.
 Escene and its point cloud reconstruction.
 
 <p align="center">
-  <img height="320" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/research5.jpg">
+  <img height="350" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/research5.jpg">
 </p>
 
 
