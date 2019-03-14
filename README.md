@@ -11,20 +11,23 @@ You can download this work [here](http://bibdigital.epn.edu.ec/bitstream/15000/1
 
 ## Components
 This figure represents the main components of the prototype.
+
 <p align="center">
-  <img height="320" width="320" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/thesis1.png>
+  <img height="320" width="320" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/thesis1.png">
 </p>
 
 
 ## Prototype
 This prototype was develop in order to be easy for transporting.
+
 <p align="center">
-  <img height="320" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/thesis2.png>
+  <img height="320" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/thesis2.png">
 </p>
 
 
 ## 3D Scan
 Escene and its point cloud reconstruction.
+
 <p align="center">
   <img height="200" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/thesis3.png">
 </p>
@@ -35,6 +38,7 @@ Escene and its point cloud reconstruction.
 
 ## Blind people testing
 Escene and its point cloud reconstruction.
+
 <p align="center">
   <img height="320" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/research2.jpg">
 </p>
@@ -45,6 +49,7 @@ Escene and its point cloud reconstruction.
 
 ## Research team
 Escene and its point cloud reconstruction.
+
 <p align="center">
   <img height="320" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/research5.jpg">
 </p>
