@@ -1,6 +1,6 @@
-## The nearest object localization through 3D lidar reconstruction using an embedded system
+## The nearest object localization through 3D sthereoscopic camera reconstruction using an embedded system
 
-This work was presented in the XXVII Electrical and Electronics journey of Escuela Politécnica Nacional.
+This work was the bacherlor thesis of Jonathan Vargas and Diego Navas at Escuela Politécnica Nacional.
 
 ## Abstract
 
@@ -10,15 +10,15 @@ You can download this work [here](http://bibdigital.epn.edu.ec/bitstream/15000/1
 
 
 ## Components
-This figure represents the main components of the prototype.
+This figure represents the main components of the prototype. It was composed of a local program and a remote HMI for analitycs purpose. 
 
 <p align="center">
   <img height="320" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/thesis1.png">
 </p>
 
 
-## Prototype
-This prototype was develop in order to be easy for transporting.
+## Algorithm
+An algorith for filtering point cloud data, using PCL library, was implemented in order to find the nearest 3D point.
 
 <p align="center">
   <img height="320" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/thesis2.png">
@@ -26,18 +26,22 @@ This prototype was develop in order to be easy for transporting.
 
 
 ## 3D Scan
-Escene and its point cloud reconstruction.
+This figure shows a point cloud reconstruction.
 
 <p align="center">
   <img height="200" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/thesis3.png">
 </p>
+
+
+## PIMI-1512 Project
+A 3D reconstruction was the first step in order to create a ETA (Electronic Travel aid system for blind people). In the PIMI-1512 project at Escuela Politécnica Nacional the previous work was combined with machine learning, 3D sound, and a IMU sensor for detecting head rotation.
 
 <p align="center">
   <img height="320" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/research3.jpg">
 </p>
 
 ## Blind people testing
-Escene and its point cloud reconstruction.
+There were some testing using obstacles and blind people in order to probe user experience. The system can detect and recognized obstacles in the environment and the users had to avoid them
 
 <p align="center">
   <img height="320" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/research2.jpg">
@@ -48,8 +52,7 @@ Escene and its point cloud reconstruction.
 </p>
 
 ## Research team
-Escene and its point cloud reconstruction.
-
+The 3D audio, machine learning and 3D reconstruction teams. 
 <p align="center">
   <img height="350" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/research5.jpg">
 </p>
