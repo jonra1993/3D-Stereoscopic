@@ -64,5 +64,5 @@ The 3D audio, machine learning and 3D reconstruction teams.
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2019 © <a href="https://www.jonathanvargas.ml" target="_blank">Jonathan Vargas</a>.
+- Authors 2019 © <a href="https://www.jonathanvargas.ml" target="_blank">Jonathan Vargas</a> and Diego Navas.
 
