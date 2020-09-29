@@ -13,7 +13,7 @@ You can download this work [here](http://bibdigital.epn.edu.ec/bitstream/15000/1
 This figure represents the main components of the prototype. It was composed of a local program and a remote HMI for analitycs purpose. 
 
 <p align="center">
-  <img height="320" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/thesis1.png">
+  <img height="320" width="480" src="https://res.cloudinary.com/dnv0qwkrk/image/upload/v1601398527/wordpress_Jonathan/thesis1.png">
 </p>
 
 
@@ -21,7 +21,7 @@ This figure represents the main components of the prototype. It was composed of 
 An algorith for filtering point cloud data, using PCL library, was implemented in order to find the nearest 3D point.
 
 <p align="center">
-  <img height="320" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/thesis2.png">
+  <img height="320" width="480" src="https://res.cloudinary.com/dnv0qwkrk/image/upload/v1601398526/wordpress_Jonathan/thesis2.png">
 </p>
 
 
@@ -29,7 +29,7 @@ An algorith for filtering point cloud data, using PCL library, was implemented i
 This figure shows a point cloud reconstruction.
 
 <p align="center">
-  <img height="200" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/thesis3.png">
+  <img height="200" width="480" src="https://res.cloudinary.com/dnv0qwkrk/image/upload/v1601398525/wordpress_Jonathan/thesis3.png">
 </p>
 
 
@@ -37,24 +37,24 @@ This figure shows a point cloud reconstruction.
 A 3D reconstruction was the first step in order to create a ETA (Electronic Travel aid system for blind people). In the PIMI-1512 project at Escuela Politécnica Nacional the previous work was combined with machine learning, 3D sound, and a IMU sensor for detecting head rotation.
 
 <p align="center">
-  <img height="320" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/research3.jpg">
+  <img height="320" width="480" src="https://res.cloudinary.com/dnv0qwkrk/image/upload/v1601398529/wordpress_Jonathan/research3.jpg">
 </p>
 
 ## Blind people testing
 There were some testing using obstacles and blind people in order to probe user experience. The system can detect and recognized obstacles in the environment and the users had to avoid them
 
 <p align="center">
-  <img height="320" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/research2.jpg">
+  <img height="320" width="480" src="https://res.cloudinary.com/dnv0qwkrk/image/upload/v1601398530/wordpress_Jonathan/research2.jpg">
 </p>
 
 <p align="center">
-  <img height="320" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/research1.jpg">
+  <img height="320" width="480" src="https://res.cloudinary.com/dnv0qwkrk/image/upload/v1601398531/wordpress_Jonathan/research1.jpg">
 </p>
 
 ## Research team
 The 3D audio, machine learning and 3D reconstruction teams. 
 <p align="center">
-  <img height="350" width="480" src="https://www.jonathanvargas.ml/wp-content/uploads/2019/03/research5.jpg">
+  <img height="350" width="480" src="https://res.cloudinary.com/dnv0qwkrk/image/upload/v1601398528/wordpress_Jonathan/research5.jpg">
 </p>
 
 
